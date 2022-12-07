@@ -6,7 +6,10 @@ __pycache__
 *.egg-info
 .idea
 .vscode
+.exercism
 
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+/.exercism/
+/.idea/
